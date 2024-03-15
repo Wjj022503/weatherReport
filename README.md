@@ -8,3 +8,10 @@ Easy-to-use interface to search for cities and display their current weather con
 Dynamic weather icons that change based on the current weather conditions.
 Displays current time for the searched location.
 Shows detailed weather information, including temperature, humidity, wind speed, and atmospheric pressure.
+
+Required ibruaries:
+geopy
+timezonefinder
+requests
+pytz
+certifi
